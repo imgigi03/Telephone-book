@@ -8,6 +8,7 @@ The goal was to build a simple **phonebook application in Java**, following the 
 - Develop an application for managing contacts (add, remove, edit, search).
 - Apply object-oriented design principles.
 - Document the code and validate its functionality through test cases.
+- Provide an executable `.jar` file for easy use of the phonebook application.
 
 ## 🛠️ Development Stages
 
@@ -20,6 +21,9 @@ The goal was to build a simple **phonebook application in Java**, following the 
 
 3. **Implementation and testing**  
    Implementation of the designed classes and creation of test cases to ensure correct program behavior.
+
+4. **Packaging**  
+   The application was compiled and packaged into an executable `.jar` file, which can be found in the `target` folder for easy usage.
 
 ## 📄 Documentation
 
