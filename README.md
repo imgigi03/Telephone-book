@@ -1,29 +1,29 @@
-# Rubrica Telefonica – Progetto di Ingegneria del Software
+# Phonebook – Software Engineering Project
 
-Questo progetto è stato sviluppato come parte dell'esame di Ingegneria del Software.  
-L'obiettivo era la realizzazione di una semplice **rubrica telefonica in Java**, seguendo le principali fasi del ciclo di vita del software.
+This project was developed as part of the Software Engineering course exam.  
+The goal was to build a simple **phonebook application in Java**, following the main stages of the software development lifecycle.
 
-## 📌 Obiettivi
+## 📌 Objectives
 
-- Sviluppare un'applicazione per la gestione dei contatti (aggiunta, rimozione, modifica, ricerca).
-- Applicare tecniche di progettazione orientata agli oggetti.
-- Documentare il codice e validarne il corretto funzionamento tramite casi di test.
+- Develop an application for managing contacts (add, remove, edit, search).
+- Apply object-oriented design principles.
+- Document the code and validate its functionality through test cases.
 
-## 🛠️ Fasi di sviluppo
+## 🛠️ Development Stages
 
-1. **Elicitazione dei requisiti**  
-   Analisi delle funzionalità richieste e definizione dei comportamenti attesi.
+1. **Requirements elicitation**  
+   Analysis of the desired features and definition of expected behaviors.
 
-2. **Progettazione del sistema**  
-   Organizzazione del codice in classi, con definizione delle operazioni principali.  
-   È stata prodotta anche la documentazione automatica tramite *Doxygen* (configurata tramite `Doxyfile`).
+2. **System design**  
+   The project was organized into classes with defined core operations.  
+   Technical documentation was also generated using *Doxygen* (configured with the included `Doxyfile`).
 
-3. **Implementazione e testing**  
-   Realizzazione delle classi e creazione di test per validare il comportamento dell'applicazione.
+3. **Implementation and testing**  
+   Implementation of the designed classes and creation of test cases to ensure correct program behavior.
 
-## 📄 Documentazione
+## 📄 Documentation
 
-La documentazione completa può essere generata con [Doxygen](https://www.doxygen.nl/) utilizzando il file `Doxyfile` incluso nel progetto.
+Full documentation can be generated using [Doxygen](https://www.doxygen.nl/) with the provided `Doxyfile`:
 
 ```bash
 doxygen Doxyfile
